@@ -40,4 +40,4 @@ The project uses the Adult Income dataset containing 48,842 records.
 ## Academic Context
 
 Developed as a group project for the Statistical and Machine Learning
-module (DA2111) at the University of Moratuwa.
+module  at the University of Moratuwa.
